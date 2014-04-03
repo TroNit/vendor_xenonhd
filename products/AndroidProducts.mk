@@ -35,4 +35,5 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/vigor.mk \
 	$(LOCAL_DIR)/xt925.mk \
 	$(LOCAL_DIR)/xt926.mk \
+        $(LOCAL_DIR)/jewel.mk \
     $(LOCAL_DIR)/xt907.mk
